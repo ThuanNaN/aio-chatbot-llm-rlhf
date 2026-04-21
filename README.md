@@ -1,4 +1,4 @@
-# AIO2024 Chatbot LLMs
+# AIO Chatbot LLMs
 
 This repository contains resources, scripts, and notebooks for training, fine-tuning, and evaluating large language models (LLMs) with Reinforcement Learning from Human Feedback (RLHF), using the [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) framework.
 
