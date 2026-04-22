@@ -1,8 +1,9 @@
-transformers[torch]==4.51.3
+torch==2.10.0
+transformers[torch]<=5.5.0
 datasets==3.5.1
-peft==0.15.2
-bitsandbytes==0.45.5
-unsloth==2025.4.7
+peft==0.19.1
+bitsandbytes
+unsloth==2026.4.6
 gradio
 openai
-vllm
+vllm==0.19.1

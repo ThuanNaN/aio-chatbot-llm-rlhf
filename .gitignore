@@ -175,7 +175,5 @@ cython_debug/
 
 *.pt 
 *.pth
-OpenRLHF/
-checkpoint/
 test.ipynb
 cache/
